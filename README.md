@@ -6,7 +6,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), enfocado en desa
 - 🗄️ Bases de datos: PostgreSQL, SQL, SQLite
 - 🔐 Seguridad de APIs: JWT, OAuth 2.0, Spring Security
 - 🐳 DevOps: Docker, CI/CD (GitHub Actions), Render
-- 📫 Contacto: axelbrandon.bav@gmail.com · [LinkedIn](TU_ENLACE_AQUI)
+- 📫 Contacto: axelbrandon.bav@gmail.com · linkedin.com/in/axel-brandon-adrian-vidal
 
 #### 🧰 Stack
 
